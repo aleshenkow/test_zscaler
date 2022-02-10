@@ -1,2 +1,4 @@
 godeltech.com
 "somecompany"
+"somecompany"
+com.godeltech
